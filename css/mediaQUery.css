@@ -1,0 +1,51 @@
+@media screen and (max-width:1200px) {
+  body {
+    font-size: 14px;
+  }
+
+}
+@media screen and (max-width:786px) {
+  html {
+    font-size: 12px;
+  }
+  .about-Titles h5{
+    margin-top: 1rem;
+
+      }
+      .service-counter {
+
+        height: 120vh;
+
+      }
+
+}
+
+@media screen and (max-width:640px) {
+  html {
+    font-size: 10px;
+  }
+  .landingPage .title p {
+  font-size: 1.5rem;
+
+  }
+  .landingPage .title h1 {
+    font-size: 3rem;
+
+  }
+  .aboutSec .container .layoutAbout {
+
+    padding: 80px 25px;
+
+  }.about-Titles h5{
+margin-top: 1rem;
+
+  }
+  .service-counter {
+
+    height: 120vh;
+
+  }
+
+
+
+}
